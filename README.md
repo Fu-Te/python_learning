@@ -27,4 +27,4 @@ tuple タプル型 要素を変化させることができないもの
 # conditonal.ipynb
 if,while,forの説明
 ifは条件分岐をする。例えば、テストの点数が何点以上じゃないと不合格など、whileは条件式がTrueの間は繰り返し続ける。forは範囲内の時繰り返し続ける
-fizzbuzzとは数値が15の時fizzbuzz,5のときbuzz,3の時fizzとなるようにする。
+fizzbuzzとは数値が15の時fizzbuzz,5のときbuzz,3の時fizzとなるようにする。    
