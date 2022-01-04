@@ -1,6 +1,6 @@
 # Python3入門の入門
 
-### 福富哲平
+
 ***
 
 
@@ -953,14 +953,3 @@ ARPテーブルの取得や，MACアドレステーブル，ルーティング�
 機械学習に興味がある人: KaggleやNishika
 アルゴリズム: AtCoderやPaiza
 
-
-# 15.筆者について
-福富哲平
-中央大学国際情報学部３年(2021年)
-
-github: https://github.com/Fu-Te?tab=repositories
-e-mail: fuktep0613@gmail.com
-
-# 16.お問合せ先
-本書に関して質問等があれば以下のメールアドレスに連絡をいただけると幸いです．
-e-mail: fuktep0613@gmail.com
